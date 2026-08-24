@@ -4,7 +4,7 @@
 
 I'm an aspiring **Data Analyst** passionate about turning raw data into meaningful insights and building interactive dashboards that help people understand data better.
 
-I enjoy working with data, solving problems using **SQL**, creating visual stories with **Tableau**, and continuously improving my analytical and technical skills.
+I enjoy working with data, solving problems using **SQL**, creating visual stories with **Power BI**, and continuously improving my analytical and technical skills.
 
 ---
 
