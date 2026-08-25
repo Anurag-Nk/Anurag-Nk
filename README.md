@@ -75,7 +75,7 @@ I'm currently looking for opportunities where I can apply my analytical skills, 
 ## 📫 Connect With Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/anuragnagarkoti/)
-* 📧 Email: nkanurag2005@gmail.com
+* 📧 nkanurag2005@gmail.com
 
 ---
 
