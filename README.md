@@ -55,11 +55,11 @@ A collection of SQL exercises covering filtering, sorting, aggregation, joins, s
 ## 📚 Currently Learning
 
 ```text
-SQL                ███████████████████░  Advanced
-Tableau            ██████████████████░░  Advanced
-Python             ████████████░░░░░░░░  Intermediate
-Excel              ███████████████░░░░░  Intermediate
-Data Analytics     ███████████████░░░░░  Intermediate
+SQL                 ███████████████████░  Advanced
+Power BI            ██████████████████░░  Advanced
+Python              ████████████░░░░░░░░  Intermediate
+Excel               ███████████████░░░░░  Intermediate
+Data Analytics      ███████████████░░░░░  Intermediate
 ```
 
 ---
