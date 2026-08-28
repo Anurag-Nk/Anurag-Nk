@@ -48,7 +48,7 @@ I enjoy working with data, solving problems using **SQL**, creating visual stori
 
 A collection of SQL exercises covering filtering, sorting, aggregation, joins, subqueries, and analytical problem-solving.
 
-**Tools:** SQL • MySQL
+**Tools:** SQL • PostgreSQL
 
 ---
 
